@@ -1,0 +1,26 @@
+C:\Users\profe\source\repos\HoleCake Client\HoleCake Client\bin\Debug\HoleCake Client.exe.config
+C:\Users\profe\source\repos\HoleCake Client\HoleCake Client\bin\Debug\HoleCake Client.exe
+C:\Users\profe\source\repos\HoleCake Client\HoleCake Client\bin\Debug\HoleCake Client.pdb
+C:\Users\profe\source\repos\HoleCake Client\HoleCake Client\obj\Debug\HoleCake_Client.Form1.resources
+C:\Users\profe\source\repos\HoleCake Client\HoleCake Client\obj\Debug\HoleCake_Client.Properties.Resources.resources
+C:\Users\profe\source\repos\HoleCake Client\HoleCake Client\obj\Debug\HoleCake Client.csproj.GenerateResource.cache
+C:\Users\profe\source\repos\HoleCake Client\HoleCake Client\obj\Debug\HoleCake Client.exe
+C:\Users\profe\source\repos\HoleCake Client\HoleCake Client\obj\Debug\HoleCake Client.pdb
+C:\Users\profe\source\repos\HoleCake Client\HoleCake Client\obj\Debug\HoleCake Client.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\HoleCake Source\HoleCake Client\HoleCake Client\bin\Debug\HoleCake Client.exe.config
+C:\Users\profe\Desktop\HoleCake Source\HoleCake Client\HoleCake Client\bin\Debug\HoleCake Client.exe
+C:\Users\profe\Desktop\HoleCake Source\HoleCake Client\HoleCake Client\bin\Debug\HoleCake Client.pdb
+C:\Users\profe\Desktop\HoleCake Source\HoleCake Client\HoleCake Client\obj\Debug\HoleCake_Client.Form1.resources
+C:\Users\profe\Desktop\HoleCake Source\HoleCake Client\HoleCake Client\obj\Debug\HoleCake_Client.Properties.Resources.resources
+C:\Users\profe\Desktop\HoleCake Source\HoleCake Client\HoleCake Client\obj\Debug\HoleCake Client.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\HoleCake Source\HoleCake Client\HoleCake Client\obj\Debug\HoleCake Client.exe
+C:\Users\profe\Desktop\HoleCake Source\HoleCake Client\HoleCake Client\obj\Debug\HoleCake Client.pdb
+C:\Users\profe\Desktop\Build\Veröffentlichen\HoleCake Source\HoleCake Client\HoleCake Client\bin\Debug\HoleCake Client.exe.config
+C:\Users\profe\Desktop\Build\Veröffentlichen\HoleCake Source\HoleCake Client\HoleCake Client\bin\Debug\HoleCake Client.exe
+C:\Users\profe\Desktop\Build\Veröffentlichen\HoleCake Source\HoleCake Client\HoleCake Client\bin\Debug\HoleCake Client.pdb
+C:\Users\profe\Desktop\Build\Veröffentlichen\HoleCake Source\HoleCake Client\HoleCake Client\obj\Debug\HoleCake Client.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Build\Veröffentlichen\HoleCake Source\HoleCake Client\HoleCake Client\obj\Debug\HoleCake_Client.Form1.resources
+C:\Users\profe\Desktop\Build\Veröffentlichen\HoleCake Source\HoleCake Client\HoleCake Client\obj\Debug\HoleCake_Client.Properties.Resources.resources
+C:\Users\profe\Desktop\Build\Veröffentlichen\HoleCake Source\HoleCake Client\HoleCake Client\obj\Debug\HoleCake Client.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Build\Veröffentlichen\HoleCake Source\HoleCake Client\HoleCake Client\obj\Debug\HoleCake Client.exe
+C:\Users\profe\Desktop\Build\Veröffentlichen\HoleCake Source\HoleCake Client\HoleCake Client\obj\Debug\HoleCake Client.pdb
